@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+deploy:
+  type: git
+  repository: https://github.com/t6-thu/t6-thu.github.io
+  branch: master
