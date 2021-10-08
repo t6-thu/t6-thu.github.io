@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<video src='final.mp4' type='video/mp4' controls='controls' width='100%' height='100%'>
-</video>
+<iframe height=498 width=510 src="final.mp4">
 
 <!-- You can use the [editor on GitHub](https://github.com/t6-thu/t6-thu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
