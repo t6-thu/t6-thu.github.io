@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in Sea AI Lab. Graduating from Zhejiang University. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+title                    : "NIU Haoyi | 牛浩懿"
+description              : "Master Student at Department of Automation, Tsinghua University. Focusing on Reinforcement Learning, Robotics and Autonomous Driving."
+repository               : "t6-thu/t6-thu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : # G-SWFCX99KQZ
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification : # b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
+bing_site_verification   : # B5AA590E7B9C03956A6F7DEC0F776211
+baidu_site_verification  : # code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "Sea AI Lab"
-  location         : "Singapore"
+  name             : "Haoyi Niu"
+  avatar           : "images/profile.jpg"
+  bio              : # "Sea AI Lab"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren@zju.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=6zozRRYAAAAJ"
+  email            : "nhy22@mails.tsinghua.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Haoyi-Niu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "t6-thu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : # "rayeren"
+  dblp             : "https://dblp.org/pid/266/9827.html"
+  orcid            : "https://orcid.org/0000-0002-7072-3787"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/t641769919"
   vine             :
   weibo            :
   xing             :
