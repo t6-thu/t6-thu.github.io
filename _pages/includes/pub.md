@@ -54,7 +54,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div> -->
 
 - Peng Cheng, Xianyuan Zhan, Wenjia Zhang, **Haoyi Niu**, Li Jiang, Zhihao Wu and Youfang Lin, [Look Beneath the Surface: Dynamics enhanced Offline Reinforcement Learning](https://openreview.net/forum?id=Q6AMSS-9HIz), Under Review, 2022
-- Guan Wang $^\dag$, **Haoyi Niu**$^\dag$, Desheng Zhu, Jianming Hu, Guyue Zhou and Xianyuan Zhan, [A Versatile and Efficient Reinforcement Learning Framework for Autonomous Driving](https://arxiv.org/abs/2110.11573), Under Review, 2022 ($^\dag$ denotes equal contribution)}
+- Guan Wang $^1$, **Haoyi Niu**$^1$, Desheng Zhu, Jianming Hu, Guyue Zhou and Xianyuan Zhan, [A Versatile and Efficient Reinforcement Learning Framework for Autonomous Driving](https://arxiv.org/abs/2110.11573), Under Review, 2022 ($^1$ denotes equal contribution)}
 
 ## Publications
 
