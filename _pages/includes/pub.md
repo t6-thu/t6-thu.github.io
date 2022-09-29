@@ -109,4 +109,4 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**, **ACM-MM 2022** -->
 
 ## Dissertation
-**Haoyi Niu**, [Robot Policy Learning with Imperfect Simulation: Effective Sim-to-Real Methods and Implementations]() (*in Chinese*), 2022, **Outstanding Graduate Dissertation Award**.
+- **Haoyi Niu**, [Robot Policy Learning with Imperfect Simulation: Effective Sim-to-Real Methods and Implementations]() (*in Chinese*), 2022, **Outstanding Graduate Dissertation Award**.
