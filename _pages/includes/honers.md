@@ -2,8 +2,7 @@
 - [*2022.06*]  Tsinghua Outstanding Graduate Dissertation (top 5%)
 - [*2022.06*] Tsinghua Outstanding Graduate Award (top 10%)
 - [*2022.06*]  Excellent Graduate Award of Department of Automation, Tsinghua University
-- [*2021.12*]  Best Paper Award at COTA International Conference of Transportation Professionals [(CICTP)](http://www.cota-home.org/cictp/CICTP2020-21.html)
-- [*2021.10*]  Tsinghua Scientific and Technological Innovation Excellence Award
+- [*2021.12*]  Best Paper Award at COTA International Conference of Transportation Professionals (CICTP)
 - [*2021.09*]  Tsinghua "Future Scholar" Scientific Research Grant (9 recipients in Tsinghua)
 - [*2021.04*]  Second Prize in Tsinghua "Challenge Cup" Academic Science and Technology Competition
 - [*2020.12*]  First Prize in Tsinghua Excellent Student Research Training (SRT) Program (top 1%)
