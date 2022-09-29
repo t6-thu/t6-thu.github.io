@@ -60,7 +60,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 - **Haoyi Niu**, Shubham Sharma, Yiwen Qiu, Ming Li, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning](https://arxiv.org/abs/2206.13464), *the Thirty-sixth Conference on Neural Information Processing Systems* (**NeurIPS 2022**).
 - Wenjia Zhang, Haoran Xu, **Haoyi Niu**, Peng Cheng, Ming Li, Heming Zhang, Guyue Zhou and Xianyuan Zhan, [Discriminator-Guided Model-Based Offline Imitation Learning](https://openreview.net/forum?id=RzhhFh4rkWu), *the 6th Conference on Robot Learning* (**CoRL 2022**).
-- **Haoyi Niu**, Jianming Hu, Zheyu Cui and Yi Zhang, [Tactical Decision Making for Emergency Vehicles Based on A Combinational Learning Method](https://ascelibrary.org/doi/abs/10.1061/9780784483565.246), *the 20th and 21st Joint COTA International Conference of Transportation Professionals* (**CICTP 2020-21**), *Best Paper Award*.
+- **Haoyi Niu**, Jianming Hu, Zheyu Cui and Yi Zhang, [Tactical Decision Making for Emergency Vehicles Based on A Combinational Learning Method](https://ascelibrary.org/doi/abs/10.1061/9780784483565.246), *the 20th and 21st Joint COTA International Conference of Transportation Professionals* (**CICTP 2020-21**), **Best Paper Award**.
 - **Haoyi Niu**, Jianming Hu, Zheyu Cui and Yi Zhang, [DR$^2$L: Surfacing Corner Cases to Robustify Autonomous Driving via Domain Randomization Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3487075.3487177), *the 5th International Conference on Computer Science and Application Engineering* (**CSAE 2021**).
 - Qingyu Song, Ruibo Ming, Jianming Hu, **Haoyi Niu** and Mingyang Gao, [Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction](https://ascelibrary.org/doi/abs/10.1061/9780784483565.246), *IEEE 23rd International Conference on Intelligent Transportation Systems* (**ITSC 2020**).
 
@@ -107,3 +107,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 <!-- ## Others
 - [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**, **ACM-MM 2022** -->
+
+## Dissertation
+**Haoyi Niu**, [Robot Policy Learning with Imperfect Simulators: Effective Sim-to-Real Methods and Implementations]() (*in Chinese*), 2022, **Outstanding Graduate Dissertation Award**.
