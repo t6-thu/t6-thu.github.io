@@ -53,16 +53,16 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div> -->
 
-- Peng Cheng, Xianyuan Zhan, Wenjia Zhang, **Haoyi Niu**, Li Jiang, Zhihao Wu and Youfang Lin, [Look Beneath the Surface: Dynamics enhanced Offline Reinforcement Learning](https://openreview.net/forum?id=Q6AMSS-9HIz), Under Review, 2022
-- Guan Wang$^1$, **Haoyi Niu**$^1$, Desheng Zhu, Jianming Hu, Guyue Zhou and Xianyuan Zhan, [A Versatile and Efficient Reinforcement Learning Framework for Autonomous Driving](https://arxiv.org/abs/2110.11573), Under Review, 2022 ($^1$ denotes equal contribution)
+- Peng Cheng, Xianyuan Zhan, Wenjia Zhang, **Haoyi Niu**, Li Jiang, Zhihao Wu and Youfang Lin, [Look Beneath the Surface: Dynamics enhanced Offline Reinforcement Learning](https://openreview.net/forum?id=Q6AMSS-9HIz), *Under Review*, 2022
+- Guan Wang$^1$, **Haoyi Niu**$^1$, Desheng Zhu, Jianming Hu, Guyue Zhou and Xianyuan Zhan, [A Versatile and Efficient Reinforcement Learning Framework for Autonomous Driving](https://arxiv.org/abs/2110.11573), *Under Review*, 2022 ($^1$ denotes equal contribution)
 
 ## Publications
 
-- **Haoyi Niu**, Shubham Sharma, Yiwen Qiu, Ming Li, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning](https://arxiv.org/abs/2206.13464), the Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS 2022**).
-- Wenjia Zhang, Haoran Xu, **Haoyi Niu**, Peng Cheng, Ming Li, Heming Zhang, Guyue Zhou and Xianyuan Zhan, [Discriminator-Guided Model-Based Offline Imitation Learning](https://openreview.net/forum?id=RzhhFh4rkWu), the 6th Conference on Robot Learning (**CoRL 2022**).
-- **Haoyi Niu**, Jianming Hu, Zheyu Cui and Yi Zhang, [Tactical Decision Making for Emergency Vehicles Based on A Combinational Learning Method](https://ascelibrary.org/doi/abs/10.1061/9780784483565.246), the 20th and 21st Joint COTA International Conference of Transportation Professionals (**CICTP 2020-21**), *Best Paper Award*.
-- **Haoyi Niu**, Jianming Hu, Zheyu Cui and Yi Zhang, [DR$^2$L: Surfacing Corner Cases to Robustify Autonomous Driving via Domain Randomization Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3487075.3487177), the 5th International Conference on Computer Science and Application Engineering (**CSAE 2021**).
-- Qingyu Song, Ruibo Ming, Jianming Hu, **Haoyi Niu** and Mingyang Gao, [Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction](https://ascelibrary.org/doi/abs/10.1061/9780784483565.246), IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC 2020).
+- **Haoyi Niu**, Shubham Sharma, Yiwen Qiu, Ming Li, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning](https://arxiv.org/abs/2206.13464), *the Thirty-sixth Conference on Neural Information Processing Systems* (**NeurIPS 2022**).
+- Wenjia Zhang, Haoran Xu, **Haoyi Niu**, Peng Cheng, Ming Li, Heming Zhang, Guyue Zhou and Xianyuan Zhan, [Discriminator-Guided Model-Based Offline Imitation Learning](https://openreview.net/forum?id=RzhhFh4rkWu), *the 6th Conference on Robot Learning* (**CoRL 2022**).
+- **Haoyi Niu**, Jianming Hu, Zheyu Cui and Yi Zhang, [Tactical Decision Making for Emergency Vehicles Based on A Combinational Learning Method](https://ascelibrary.org/doi/abs/10.1061/9780784483565.246), *the 20th and 21st Joint COTA International Conference of Transportation Professionals* (**CICTP 2020-21**), *Best Paper Award*.
+- **Haoyi Niu**, Jianming Hu, Zheyu Cui and Yi Zhang, [DR$^2$L: Surfacing Corner Cases to Robustify Autonomous Driving via Domain Randomization Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3487075.3487177), *the 5th International Conference on Computer Science and Application Engineering* (**CSAE 2021**).
+- Qingyu Song, Ruibo Ming, Jianming Hu, **Haoyi Niu** and Mingyang Gao, [Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction](https://ascelibrary.org/doi/abs/10.1061/9780784483565.246), *IEEE 23rd International Conference on Intelligent Transportation Systems* (**ITSC 2020**).
 
 <!-- - [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, Jinglin Liu, Zhenhui Ye, **NeurIPS 2022**
 - [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, Jinglin Liu, Chenye Cui, Zhou Zhao, **CoRL 2022**
