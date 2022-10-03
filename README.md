@@ -72,4 +72,8 @@ Some examples:
 - AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
 
 # Visitors
-<a href="https://info.flagcounter.com/RB9f"><img src="https://s11.flagcounter.com/count2/RB9f/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<p align="center">
+    <br>
+    <a href="https://info.flagcounter.com/RB9f"><img src="https://s11.flagcounter.com/count2/RB9f/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+    <br>
+</p>
