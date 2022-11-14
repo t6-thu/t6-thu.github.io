@@ -54,7 +54,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div> -->
 
 - Peng Cheng, Xianyuan Zhan, Wenjia Zhang, **Haoyi Niu**, Li Jiang, Zhihao Wu and Youfang Lin, [Look Beneath the Surface: Dynamics enhanced Offline Reinforcement Learning](https://openreview.net/forum?id=Q6AMSS-9HIz), *Under Review*, 2022.
-- Guan Wang$^\*$, **Haoyi Niu**$^\*$, Desheng Zhu, Jianming Hu, Xianyuan Zhan and Guyue Zhou, [A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving](https://arxiv.org/abs/2110.11573), *NeurIPS Machine Learning for Autonomous Driving Workshop*, *NeurIPS RL for RealLife Workshop*, 2022 ($^\*$ equal contribution). [[Video](https://www.youtube.com/watch?v=ku8WHoKLwYM)][[Code](https://github.com/imoneoi/onerl)][[Benchmark](https://github.com/imoneoi/carla_env)]
+- Guan Wang$^\*$, **Haoyi Niu**$^\*$, Desheng Zhu, Jianming Hu, Xianyuan Zhan and Guyue Zhou, [A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving](https://arxiv.org/abs/2110.11573), *NeurIPS Machine Learning for Autonomous Driving Workshop*, *NeurIPS RL for RealLife Workshop*, 2022 ($^\*$ equal contribution). [[Video](https://www.youtube.com/watch?v=ku8WHoKLwYM)][[OneRL Code](https://github.com/imoneoi/onerl)][[NoGap Benchmark](https://github.com/imoneoi/carla_env)]
 
 ## Conference Proceedings
 
