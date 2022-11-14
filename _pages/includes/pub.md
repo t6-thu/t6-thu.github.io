@@ -58,7 +58,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 ## Conference Proceedings
 
-- **Haoyi Niu**, Shubham Sharma, Yiwen Qiu, Ming Li, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning](https://arxiv.org/abs/2206.13464), *Thirty-sixth Conference on Neural Information Processing Systems* (**NeurIPS 2022**), **Spotlight**. [[Video](https://www.youtube.com/watch?v=WRyEB6WEGc4)][[Code](https://github.com/t6-thu/H2O)][[OpenReview](https://openreview.net/forum?id=zXE8iFOZKw)]
+- **Haoyi Niu**, Shubham Sharma, Yiwen Qiu, Ming Li, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning](https://arxiv.org/abs/2206.13464), *Thirty-sixth Conference on Neural Information Processing Systems* (**NeurIPS 2022**), **[Spotlight](https://nips.cc/virtual/2022/spotlight/65123)**. [[Video](https://www.youtube.com/watch?v=WRyEB6WEGc4)][[Code](https://github.com/t6-thu/H2O)][[OpenReview](https://openreview.net/forum?id=zXE8iFOZKw)]
 <!-- [<a href="../niu2022when.bib">Cite</a>] -->
 - Wenjia Zhang, Haoran Xu, **Haoyi Niu**, Peng Cheng, Ming Li, Heming Zhang, Guyue Zhou and Xianyuan Zhan, [Discriminator-Guided Model-Based Offline Imitation Learning](https://openreview.net/forum?id=RzhhFh4rkWu), *6th Conference on Robot Learning* (**CoRL 2022**).
 - **Haoyi Niu**, Jianming Hu, Zheyu Cui and Yi Zhang, [Tactical Decision Making for Emergency Vehicles Based on A Combinational Learning Method](https://ascelibrary.org/doi/abs/10.1061/9780784483565.246), *the 20th and 21st Joint COTA International Conference of Transportation Professionals* (**CICTP 2020-21**), **Best Paper Award**.
