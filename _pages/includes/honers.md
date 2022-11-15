@@ -7,5 +7,5 @@
 - [*2021.04*]  Second Prize in Tsinghua "Challenge Cup" Academic Science and Technology Competition
 - [*2020.12*]  First Prize in Tsinghua Excellent Student Research Training (SRT) Program (top 1%)
 - [*2020.10*]  Tsinghua Comprehensive Excellence Award (top 10%)
-- [*2020.10*]  Fang Chongzhi Scholarship (1 recipient in Department of Automation)
+- [*2020.10*]  Fang Chongzhi Scholarship (highest scholarship for juniors in Dept. of Automation)
 - [*2019.12*]  First Prize in Group A (Non-Physics Major) of the National Collegiate Physics Competition
