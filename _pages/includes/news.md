@@ -1,4 +1,5 @@
 # 🔥 News
+- [*2023.03*] One paper is accepted by IEEE IV 2023!
 - [*2023.02*] Guest Speaker at 2023 AI TIME Youth PhD Talk Forum.
 - [*2022.11*] Invited talk about [our NeurIPS paper (H2O)](https://nips.cc/virtual/2022/poster/54412) at [RLChina](https://rlchina.org/) Academic Seminar! [[video](https://www.bilibili.com/video/BV1c24y1k7dG/?spm_id_from=333.999.0.0&vd_source=9d786508083f588d0e2277de059e0512)]
 - [*2022.11*] Invited talk about [our NeurIPS paper (H2O)](https://nips.cc/virtual/2022/poster/54412) at [DI Lab](https://people.iiis.tsinghua.edu.cn/~dilab/)'s group meeting!
