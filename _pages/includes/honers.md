@@ -1,0 +1,11 @@
+# 🎖 Honors and Awards
+- [*2022.06*]  Tsinghua Outstanding Graduate Dissertation (top 5%)
+- [*2022.06*]  Tsinghua Outstanding Graduate Award (top 10%)
+- [*2022.06*]  Excellent Graduate Award of Department of Automation, Tsinghua University
+- [*2021.12*]  Best Paper Award at COTA International Conference of Transportation Professionals (CICTP)
+- [*2021.09*]  Tsinghua "Future Scholar" Scientific Research Grant (9 recipients in Tsinghua)
+- [*2021.04*]  Second Prize in Tsinghua "Challenge Cup" Academic Science and Technology Competition
+- [*2020.12*]  First Prize in Tsinghua Excellent Student Research Training (SRT) Program (top 1%)
+- [*2020.10*]  Tsinghua Comprehensive Excellence Award (top 10%)
+- [*2020.10*]  Fang Chongzhi Scholarship (highest scholarship for juniors in Dept. of Automation)
+- [*2019.12*]  First Prize in Group A (Non-Physics Major) of the National Collegiate Physics Competition
