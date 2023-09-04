@@ -6,7 +6,7 @@
 
 # 💻 Internships
 - *2021.03 - Present*, [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China. (**Advisor: [Prof.Xianyuan Zhan](http://zhanxianyuan.xyz/)**)
-- *2023.04 - Present*, [Intelligent and Interactive Autonomous Systems Group (ILIAD)](https://iliad.stanford.edu/), Stanford University, Palo Alto, USA. (**Advisor: Dr. Yuchen Cui and Prof. Dorsa Sadigh**)
+- *2023.06 - Present*, [Intelligent and Interactive Autonomous Systems Group (ILIAD)](https://iliad.stanford.edu/), Stanford University, Stanford, USA. (**Advisor: [Dr. Yuchen Cui](https://web.stanford.edu/~yuchenc/) and [Prof. Dorsa Sadigh](https://dorsa.fyi/)**)
 
 # 🧑‍🎨 Services
-Reviewer for ITSC 2021, ICRA 2022, IROS 2022/2023, NeurIPS 2023
+Reviewer for ITSC 2021, ICRA 2022, IROS 2022/2023, NeurIPS 2023, T-IV
