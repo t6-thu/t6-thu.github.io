@@ -1,6 +1,6 @@
 
 # 📝 Publications
-## Preprints
+## Preprints and Codebases
 <!-- ## 🎙 Speech Synthesis
 
 
@@ -52,13 +52,22 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
 </div>
 </div> -->
-- Peng Cheng, Xianyuan Zhan, Wenjia Zhang, **Haoyi Niu**, Li Jiang, Zhihao Wu and Youfang Lin, [Look Beneath the Surface: Dynamics enhanced Offline Reinforcement Learning](https://openreview.net/forum?id=Q6AMSS-9HIz), *Under Review*, 2022.
-- Guan Wang$^\*$, **Haoyi Niu**$^\*$, Desheng Zhu, Jianming Hu, Xianyuan Zhan and Guyue Zhou, [A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving](https://arxiv.org/abs/2110.11573), *NeurIPS Machine Learning for Autonomous Driving Workshop*, *NeurIPS RL for RealLife Workshop*, 2022 ($^\*$ equal contribution). [[Video](https://www.youtube.com/watch?v=ku8WHoKLwYM)][[OneRL Code](https://github.com/imoneoi/onerl)][[NoGap Benchmark](https://github.com/imoneoi/carla_env)]
+<!-- - Peng Cheng, Xianyuan Zhan, Wenjia Zhang, **Haoyi Niu**, Li Jiang, Zhihao Wu and Youfang Lin, [Look Beneath the Surface: Dynamics enhanced Offline Reinforcement Learning](https://openreview.net/forum?id=Q6AMSS-9HIz), *Under Review*, 2022. -->
+- Xiangyu Zhu$^\*$, Jianxiong Li$^\*$, **Haoyi Niu**$^\*$, Yinan Zheng$^\*$, Peng Cheng$^\*$, Wenjia Zhang$^\*$, Haoran Xu$^\*$ and Xianyuan Zhan, [D2C: A Data-Driven Control Library Based on Reinforcement Learning](), *Paper coming soon*, 2023. [[Code](https://github.com/AIR-DI/D2C)]
+
+- **Haoyi Niu**$^\*$, Tianying Ji$^\*$, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](), *Under Review*, 2023.
+
+- **Haoyi Niu**$^\*$, Yizhou Xu$^\*$, Xingjian Jiang and Jianming Hu, [Continual Driving Policy Optimization with Curriculum Designing on Offline Scenarios](), *Under Review*, 2023.
+
+- **Haoyi Niu**$^\*$, Qimao Chen$^\*$, Yingyue  and Jianming Hu, [Stackelberg Autonomous-Background Vehicle Modeling for Continual Policy Improvement](), *Under Review*, 2023.
+
+- Guan Wang$^\*$, **Haoyi Niu**$^\*$, Desheng Zhu, Jianming Hu, Xianyuan Zhan and Guyue Zhou, [A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving](https://arxiv.org/abs/2110.11573), *NeurIPS Machine Learning for Autonomous Driving Workshop*, *NeurIPS RL for RealLife Workshop*, 2022. [[Video](https://www.youtube.com/watch?v=ku8WHoKLwYM)][[OneRL Code](https://github.com/imoneoi/onerl)][[NoGap Benchmark](https://github.com/imoneoi/carla_env)]
 
 ## Conference Proceedings
 
-- **Haoyi Niu**$^\*$, Kun Ren$^\*$, Yizhou Xu, Ziyuan Yang, Yichen Lin, Yi Zhang and Jianming Hu, [(Re)$^2$H2O: Autonomous Driving Scenario Generation via Reversely Regularized Hybrid Offline-and-Online Reinforcement Learning](https://arxiv.org/abs/2302.13726), *IEEE Intelligent Vehicles Symposium 2023* (**IV 2023**, $^\*$ equal contribution).
-- **Haoyi Niu**, Shubham Sharma, Yiwen Qiu, Ming Li, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning](https://arxiv.org/abs/2206.13464), *Thirty-sixth Conference on Neural Information Processing Systems* (**NeurIPS 2022**), **[Spotlight](https://nips.cc/virtual/2022/spotlight/65123)**. [[Video](https://www.youtube.com/watch?v=WRyEB6WEGc4)][[Code](https://github.com/t6-thu/H2O)][[OpenReview](https://openreview.net/forum?id=zXE8iFOZKw)]
+- **Haoyi Niu**$^\*$, Kun Ren$^\*$, Yizhou Xu, Ziyuan Yang, Yichen Lin, Yi Zhang and Jianming Hu, [(Re)$^2$H2O: Autonomous Driving Scenario Generation via Reversely Regularized Hybrid Offline-and-Online Reinforcement Learning](https://arxiv.org/abs/2302.13726), *IEEE Intelligent Vehicles Symposium 2023* (**IV 2023**).
+- **Haoyi Niu**, Shubham Sharma, Yiwen Qiu, Ming Li, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning](https://arxiv.org/abs/2206.13464), *Thirty-sixth Conference on Neural Information Processing Systems* (**NeurIPS 2022**), **[Spotlight](https://nips.cc/virtual/2022/spotlight/65123)**. [[Video](https://www.youtube.com/watch?v=WRyEB6WEGc4)][[Code](https://github.com/t6-thu/H2O)]
+<!-- [[OpenReview](https://openreview.net/forum?id=zXE8iFOZKw)] -->
 <!-- [<a href="../niu2022when.bib">Cite</a>] -->
 - Wenjia Zhang, Haoran Xu, **Haoyi Niu**, Peng Cheng, Ming Li, Heming Zhang, Guyue Zhou and Xianyuan Zhan, [Discriminator-Guided Model-Based Offline Imitation Learning](https://openreview.net/forum?id=RzhhFh4rkWu), *6th Conference on Robot Learning* (**CoRL 2022**).
 - **Haoyi Niu**, Jianming Hu, Zheyu Cui and Yi Zhang, [Tactical Decision Making for Emergency Vehicles Based on A Combinational Learning Method](https://ascelibrary.org/doi/abs/10.1061/9780784483565.246), *the 20th and 21st Joint COTA International Conference of Transportation Professionals* (**CICTP 2020-21**), **Best Paper Award**.
