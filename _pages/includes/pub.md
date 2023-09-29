@@ -53,7 +53,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div> -->
 <!-- - Peng Cheng, Xianyuan Zhan, Wenjia Zhang, **Haoyi Niu**, Li Jiang, Zhihao Wu and Youfang Lin, [Look Beneath the Surface: Dynamics enhanced Offline Reinforcement Learning](https://openreview.net/forum?id=Q6AMSS-9HIz), *Under Review*, 2022. -->
-- Xiangyu Zhu$^\*$, Jianxiong Li$^\*$, **Haoyi Niu**$^\*$, Yinan Zheng$^\*$, Peng Cheng$^\*$, Wenjia Zhang$^\*$, Haoran Xu$^\*$ and Xianyuan Zhan, [D2C: A Data-Driven Control Library Based on Reinforcement Learning](), *Paper coming soon*, 2023. [[Code](https://github.com/AIR-DI/D2C)]
+- Xiangyu Zhu$^\*$, Jianxiong Li$^\*$, **Haoyi Niu**$^\*$, Yinan Zheng$^\*$, Peng Cheng$^\*$, Wenjia Zhang$^\*$, Haoran Xu$^\*$ and Xianyuan Zhan, [D2C: A Data-Driven Control Library Based on Reinforcement Learning](https://github.com/AIR-DI/D2C), *Paper coming soon*, 2023. [[Code](https://github.com/AIR-DI/D2C)]
 
 - **Haoyi Niu**$^\*$, Tianying Ji$^\*$, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](), *Under Review*, 2023.
 
