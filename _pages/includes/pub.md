@@ -57,9 +57,9 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 - **Haoyi Niu**$^\*$, Tianying Ji$^\*$, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://arxiv.org/abs/2309.12716), *Under Review*, 2023.
 
-- **Haoyi Niu**$^\*$, Yizhou Xu$^\*$, Xingjian Jiang and Jianming Hu, [Continual Driving Policy Optimization with Curriculum Designing on Offline Scenarios](https://arxiv.org/abs/2309.14209), *Under Review*, 2023. [[Code](https://github.com/YizhouXu-THU/CLIC)]
+- **Haoyi Niu**$^\*$, Yizhou Xu$^\*$, Xingjian Jiang and Jianming Hu, [Continual Driving Policy Optimization with Curriculum Designing on Offline Scenarios](https://arxiv.org/abs/2309.14209), *NeurIPS 2023 Symposium on Machine Learning for Autonomous Driving & Agent Learning in Open-Endedness Workshop*, 2023. [[Code](https://github.com/YizhouXu-THU/CLIC)]
 
-- **Haoyi Niu**$^\*$, Qimao Chen$^\*$, Yingyue Li and Jianming Hu, [Stackelberg Autonomous-Background Vehicle Modeling for Continual Policy Improvement](https://arxiv.org/abs/2309.14235), *Under Review*, 2023. [[Code](https://github.com/BlueCat-de/SDM)]
+- **Haoyi Niu**$^\*$, Qimao Chen$^\*$, Yingyue Li and Jianming Hu, [Stackelberg Autonomous-Background Vehicle Modeling for Continual Policy Improvement](https://arxiv.org/abs/2309.14235), *NeurIPS 2023 Symposium on Machine Learning for Autonomous Driving & Agent Learning in Open-Endedness Workshop*, 2023. [[Code](https://github.com/BlueCat-de/SDM)]
 
 - Guan Wang$^\*$, **Haoyi Niu**$^\*$, Desheng Zhu, Jianming Hu, Xianyuan Zhan and Guyue Zhou, [A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving](https://arxiv.org/abs/2110.11573), *NeurIPS Machine Learning for Autonomous Driving Workshop*, *NeurIPS RL for RealLife Workshop*, 2022. [[Video](https://www.youtube.com/watch?v=ku8WHoKLwYM)][[OneRL Code](https://github.com/imoneoi/onerl)][[NoGap Benchmark](https://github.com/imoneoi/carla_env)]
 
