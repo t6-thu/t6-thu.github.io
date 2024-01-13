@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- [*2024.01*]  Weimin Zheng Scholarship
 - [*2023.10*]  Tsinghua First-Class Comprehensive Excellence Award for Graduate Students (Lingjun Investment Scholarship)
 - [*2022.06*]  Tsinghua Outstanding Graduate Dissertation (top 5%)
 - [*2022.06*]  Tsinghua Outstanding Graduate Award (top 10%)
