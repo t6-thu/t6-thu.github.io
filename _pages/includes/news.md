@@ -1,4 +1,5 @@
 # 🔥 News
+- [*2024.01*] One paper is accepted by ICRA 2024!
 - [*2023.10*] Two papers are accepted by NeurIPS 2023 Symposium on ML4AD and ALOE Workshop!
 - [*2023.03*] One paper is accepted by IEEE IV 2023!
 - [*2023.02*] Guest Speaker at 2023 AI TIME Youth PhD Talk Forum.
