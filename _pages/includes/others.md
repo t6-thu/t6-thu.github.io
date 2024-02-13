@@ -9,4 +9,4 @@
 - *2023.06 - Present*, [Intelligent and Interactive Autonomous Systems Group (ILIAD)](https://iliad.stanford.edu/), Stanford University, Stanford, USA. (**Advisor: [Dr. Yuchen Cui](https://web.stanford.edu/~yuchenc/) and [Prof. Dorsa Sadigh](https://dorsa.fyi/)**)
 
 # 🧑‍🎨 Services
-Reviewer for ITSC, ICRA, IROS, NeurIPS, ICML, T-IV, TRC
+Reviewer for Conferences (**ITSC, ICRA, IROS, IJCAI, NeurIPS, ICML**) and Journals (**IEEE Transactions on Intelligent Vehicles, Transportation Research Part C**).
