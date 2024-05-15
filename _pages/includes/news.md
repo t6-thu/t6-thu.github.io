@@ -1,4 +1,5 @@
 # 🔥 News
+- [*2024.05*] One paper is accepted by ICML 2024!
 - [*2024.04*] One paper is accepted by IJCAI 2024!
 - [*2024.01*] One paper is accepted by ICRA 2024!
 - [*2023.10*] Two papers are accepted by NeurIPS 2023 Symposium on ML4AD and ALOE Workshop!

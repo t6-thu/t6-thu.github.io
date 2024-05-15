@@ -54,8 +54,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div> -->
 <!-- - Peng Cheng, Xianyuan Zhan, Wenjia Zhang, **Haoyi Niu**, Li Jiang, Zhihao Wu and Youfang Lin, [Look Beneath the Surface: Dynamics enhanced Offline Reinforcement Learning](https://openreview.net/forum?id=Q6AMSS-9HIz), *Under Review*, 2022. -->
 
-- Jianxiong Li, Jinliang Zheng, Yinan Zheng, Liyuan Mao, Xiao Hu, Sijie Cheng, **Haoyi Niu**, Jihao Liu, Yu Liu, Jingjing Liu, Ya-Qin Zhang and Xianyuan Zhan, [DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning](), *Under Review*, 2024.
-
 - Xiangyu Zhu$^\*$, Jianxiong Li$^\*$, **Haoyi Niu**$^\*$, Yinan Zheng$^\*$, Peng Cheng$^\*$, Wenjia Zhang$^\*$, Haoran Xu$^\*$ and Xianyuan Zhan, [D2C: A Data-Driven Control Library Based on Reinforcement Learning](https://github.com/AIR-DI/D2C), *Paper coming soon*, 2023. [[Code](https://github.com/AIR-DI/D2C)][[Documentation](https://air-d2c.readthedocs.io/)]
 
 - **Haoyi Niu**$^\*$, Tianying Ji$^\*$, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://arxiv.org/abs/2309.12716), ICLR Workshop on Data-centric Machine Learning Research (DMLR), 2024.
@@ -65,6 +63,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - Guan Wang$^\*$, **Haoyi Niu**$^\*$, Desheng Zhu, Jianming Hu, Xianyuan Zhan and Guyue Zhou, [A Versatile and Efficient Reinforcement Learning Approach for Autonomous Driving](https://arxiv.org/abs/2110.11573), *NeurIPS Machine Learning for Autonomous Driving Workshop*, *NeurIPS RL for RealLife Workshop*, 2022. [[Video](https://www.youtube.com/watch?v=ku8WHoKLwYM)][[OneRL Code](https://github.com/imoneoi/onerl)][[NoGap Benchmark](https://github.com/imoneoi/carla_env)]
 
 ## Conference Proceedings
+- Jianxiong Li, Jinliang Zheng, Yinan Zheng, Liyuan Mao, Xiao Hu, Sijie Cheng, **Haoyi Niu**, Jihao Liu, Yu Liu, Jingjing Liu, Ya-Qin Zhang and Xianyuan Zhan, [DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning](https://arxiv.org/abs/2402.18137), *International Conference on Machine Learning* (**ICML 2024**). [[Website](https://2toinf.github.io/DecisionNCE/)][[Code](https://github.com/2toinf/DecisionNCE)]
 - **Haoyi Niu**, Jianming Hu, Guyue Zhou and Xianyuan Zhan, [A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents](https://arxiv.org/abs/2402.04580), *International Joint Conference
 on Artificial  Intelligence* (**IJCAI 2024**). [[Repo](https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents)]
 - **Haoyi Niu**$^\*$, Yizhou Xu$^\*$, Xingjian Jiang and Jianming Hu, [Continual Driving Policy Optimization with Closed-Loop Individualized Curricula](https://arxiv.org/abs/2309.14209), *IEEE International Conference on
