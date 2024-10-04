@@ -1,6 +1,6 @@
 
 # 📝 Publications
-## Preprints and Codebases
+## Preprints, Codebases and Workshop Papers
 <!-- ## 🎙 Speech Synthesis
 
 
