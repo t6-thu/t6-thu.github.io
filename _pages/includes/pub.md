@@ -55,6 +55,11 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 <!-- - Peng Cheng, Xianyuan Zhan, Wenjia Zhang, **Haoyi Niu**, Li Jiang, Zhihao Wu and Youfang Lin, [Look Beneath the Surface: Dynamics enhanced Offline Reinforcement Learning](https://openreview.net/forum?id=Q6AMSS-9HIz), *Under Review*, 2022. -->
 - **Haoyi Niu**$^\*$, Qimao Chen$^\*$, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu and Xianyuan Zhan, [xTED: Cross-Domain Policy Adaptation via Diffusion-Based Trajectory Editing](https://arxiv.org/abs/2409.08687), *Under Review*, 2024. [[Code](https://github.com/t6-thu/xTED)][[Website](https://t6-thu.github.io/xTED/)]
 
+- Tenglong Liu$^\*$, Jianxiong Li$^\*$, Yinan Zheng, **Haoyi Niu**, Yixing Lan, Xin Xu and Xianyuan Zhan, [Skill Expansion and Composition in Parameter Space](), *Under Review*, 2024.
+
+- Guan Wang$^\*$, **Haoyi Niu**$^\*$, Jianxiong Li, Li Jiang, Jianming Hu and Xianyuan Zhan, [Are Expressive Models Truly Necessary for Offline RL?](), *Under Review*, 2024. [[Code](https://github.com/imoneoi/RSP_JAX)]
+<!-- [[Website](https://t6-thu.github.io/xTED/)] -->
+
 - Xiangyu Zhu$^\*$, Jianxiong Li$^\*$, **Haoyi Niu**$^\*$, Yinan Zheng$^\*$, Peng Cheng$^\*$, Wenjia Zhang$^\*$, Haoran Xu$^\*$ and Xianyuan Zhan, [D2C: A Data-Driven Control Library Based on Reinforcement Learning](https://github.com/AIR-DI/D2C), *Paper coming soon*, 2023. [[Code](https://github.com/AIR-DI/D2C)][[Documentation](https://air-d2c.readthedocs.io/)]
 
 - **Haoyi Niu**$^\*$, Tianying Ji$^\*$, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://arxiv.org/abs/2309.12716), ICLR Workshop on Data-centric Machine Learning Research (DMLR), 2024.
