@@ -1,12 +1,13 @@
 # 🔥 News
-- [*2024.05*] One paper is accepted by ICML 2024!
+- [*2024.10*] Two papers (xTED, RSP) are accepted by NeurIPS 2024 Workshop on Open-World Agents.
+- [*2024.05*] One paper (DecisionNCE) is accepted by ICML 2024!
 - [*2024.04*] One paper is accepted by IJCAI 2024!
-- [*2024.01*] One paper is accepted by ICRA 2024!
-- [*2023.10*] Two papers are accepted by NeurIPS 2023 Symposium on ML4AD and ALOE Workshop!
-- [*2023.03*] One paper is accepted by IEEE IV 2023!
+- [*2024.01*] One paper (CLIC) is accepted by ICRA 2024!
+- [*2023.10*] Two papers (CLIC, SDM) are accepted by NeurIPS 2023 Symposium on ML4AD and ALOE Workshop!
+- [*2023.03*] One paper ((Re)$^2$H2O) is accepted by IEEE IV 2023!
 - [*2023.02*] Guest Speaker at 2023 AI TIME Youth PhD Talk Forum.
 - [*2022.11*] Invited talk about [our NeurIPS paper (H2O)](https://nips.cc/virtual/2022/poster/54412) at [RLChina](https://rlchina.org/) Academic Seminar! [[video](https://www.bilibili.com/video/BV1c24y1k7dG/?spm_id_from=333.999.0.0&vd_source=9d786508083f588d0e2277de059e0512)]
 - [*2022.11*] Invited talk about [our NeurIPS paper (H2O)](https://nips.cc/virtual/2022/poster/54412) at [DI Lab](https://people.iiis.tsinghua.edu.cn/~dilab/)'s group meeting!
 - [*2022.10*] One paper is accepted by NeurIPS 2022 RL4RealLife Workshop and ML4AD Workshop!
-- [*2022.09*] One paper is accepted by NeurIPS 2022!
-- [*2022.09*] One paper is accepted by CoRL 2022!
+- [*2022.09*] One paper (H2O) is accepted by NeurIPS 2022!
+- [*2022.09*] One paper (DMIL) is accepted by CoRL 2022!
