@@ -53,7 +53,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div> -->
 <!-- - Peng Cheng, Xianyuan Zhan, Wenjia Zhang, **Haoyi Niu**, Li Jiang, Zhihao Wu and Youfang Lin, [Look Beneath the Surface: Dynamics enhanced Offline Reinforcement Learning](https://openreview.net/forum?id=Q6AMSS-9HIz), *Under Review*, 2022. -->
-- **Haoyi Niu**$^\*$, Qimao Chen$^\*$, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu and Xianyuan Zhan, [xTED: Cross-Domain Policy Adaptation via Diffusion-Based Trajectory Editing](https://arxiv.org/abs/2409.08687), NeurIPS Workshop on Open-World Agents, 2024. [[Code](https://github.com/t6-thu/xTED)][[Website](https://t6-thu.github.io/xTED/)]
+- **Haoyi Niu**$^\*$, Qimao Chen$^\*$, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu and Xianyuan Zhan, [xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing](https://arxiv.org/abs/2409.08687), NeurIPS Workshop on Open-World Agents, 2024. [[Code](https://github.com/t6-thu/xTED)][[Website](https://t6-thu.github.io/xTED/)]
 
 - Tenglong Liu$^\*$, Jianxiong Li$^\*$, Yinan Zheng, **Haoyi Niu**, Yixing Lan, Xin Xu and Xianyuan Zhan, [Skill Expansion and Composition in Parameter Space](), *Under Review*, 2024.
 
@@ -71,7 +71,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 ## Conference Proceedings
 - Jianxiong Li, Jinliang Zheng, Yinan Zheng, Liyuan Mao, Xiao Hu, Sijie Cheng, **Haoyi Niu**, Jihao Liu, Yu Liu, Jingjing Liu, Ya-Qin Zhang and Xianyuan Zhan, [DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning](https://arxiv.org/abs/2402.18137), *International Conference on Machine Learning* (**ICML 2024**). [[Website](https://2toinf.github.io/DecisionNCE/)][[Code](https://github.com/2toinf/DecisionNCE)]
 - **Haoyi Niu**, Jianming Hu, Guyue Zhou and Xianyuan Zhan, [A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents](https://arxiv.org/abs/2402.04580), *International Joint Conference
-on Artificial  Intelligence* (**IJCAI 2024**). [[Repo](https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents)]
+on Artificial  Intelligence* (**IJCAI 2024**), **Oral Presentation**. [[Repo](https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents)]
 - **Haoyi Niu**$^\*$, Yizhou Xu$^\*$, Xingjian Jiang and Jianming Hu, [Continual Driving Policy Optimization with Closed-Loop Individualized Curricula](https://arxiv.org/abs/2309.14209), *IEEE International Conference on
 Robotics and Automation* (**ICRA 2024**). [[Code](https://github.com/YizhouXu-THU/CLIC)]
 - **Haoyi Niu**$^\*$, Kun Ren$^\*$, Yizhou Xu, Ziyuan Yang, Yichen Lin, Yi Zhang and Jianming Hu, [(Re)$^2$H2O: Autonomous Driving Scenario Generation via Reversely Regularized Hybrid Offline-and-Online Reinforcement Learning](https://arxiv.org/abs/2302.13726), *IEEE Intelligent Vehicles Symposium 2023* (**IV 2023**). [[Code](https://github.com/Kun-k/Re_2_H2O)]
