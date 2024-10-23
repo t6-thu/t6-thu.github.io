@@ -6,7 +6,7 @@
 
 # 💻 Internships
 - *2021.03 - Present*, [AIR-DREAM Lab](https://air-dream.netlify.app/) of [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China. (**Advisor: [Prof.Xianyuan Zhan](http://zhanxianyuan.xyz/)**)
-- *2024.06 - Present*, [SU Lab](https://cseweb.ucsd.edu/~haosu/index.html), UCSD, San Diego, USA. (**Advisor: [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/)**)
+<!-- - *2024.06 - Present*, [SU Lab](https://cseweb.ucsd.edu/~haosu/index.html), UCSD, San Diego, USA. (**Advisor: [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/)**) -->
 
 # 🧑‍🎨 Services
 Reviewer for Conferences (**ITSC, ICRA, IROS, IJCAI, NeurIPS, ICML**) and Journals (**IEEE Transactions on Intelligent Vehicles, Transportation Research Part C**).
