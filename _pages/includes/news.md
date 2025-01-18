@@ -1,5 +1,5 @@
 # 🔥 News
-- [*2025.01*] Guest Speaker at AI TIME AAAI Forum.
+- [*2025.01*] Guest Speaker sharing RSP at AI TIME AAAI Forum. [[video](https://www.bilibili.com/video/BV1MBc1eBEYJ/?share_source=copy_web&vd_source=76e83556474f5bcdeb4d19a8521c1d7d)(Chinese)]
 - [*2024.12*] One paper (RSP) is accepted by AAAI 2025 as **oral presentation**!
 - [*2024.10*] Two papers (xTED, RSP) are accepted by NeurIPS 2024 Workshop on Open-World Agents.
 - [*2024.05*] One paper (DecisionNCE) is accepted by ICML 2024!
