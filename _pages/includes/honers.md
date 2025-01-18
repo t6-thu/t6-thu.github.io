@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- [*2025.01*]  AAAI 2025 Oral Presentation Award
 - [*2024.11*]  Tsinghua First-Class Comprehensive Excellence Award for Graduate Students (Fang Chongzhi Development Fund Scholarship)
 - [*2024.01*]  Zheng Weimin Scholarship
 - [*2023.10*]  Tsinghua First-Class Comprehensive Excellence Award for Graduate Students (Lingjun Investment Scholarship)
