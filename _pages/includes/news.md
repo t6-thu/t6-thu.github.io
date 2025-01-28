@@ -4,7 +4,7 @@
 - [*2024.12*] One paper (RSP) is accepted by AAAI 2025 as **Oral Presentation**!
 - [*2024.10*] Two papers (xTED, RSP) are accepted by NeurIPS 2024 Workshop on Open-World Agents.
 - [*2024.05*] One paper (DecisionNCE) is accepted by ICML 2024!
-- [*2024.04*] One paper is accepted by IJCAI 2024!
+- [*2024.04*] One Survey paper on Cross-Domain Embodied Policy Transfer is accepted by IJCAI 2024!
 - [*2024.01*] One paper (CLIC) is accepted by ICRA 2024!
 - [*2023.10*] Two papers (CLIC, SDM) are accepted by NeurIPS 2023 Symposium on ML4AD and ALOE Workshop!
 - [*2023.03*] One paper ((Re)$^2$H2O) is accepted by IEEE IV 2023!
