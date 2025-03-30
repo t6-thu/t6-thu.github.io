@@ -52,7 +52,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
 </div>
 </div> -->
-- Dongxiu Liu$^\*$, **Haoyi Niu**$^\*$, Zhihao Wang, Jinliang Zheng, Yinan Zheng, Zhonghong Ou, Jianming Hu, Jianxiong Li, Xianyuan Zhan, [Efficient Robotic Policy Learning via Latent Space Backward Planning](https://openreview.net/forum?id=BDBnw6L66T), *Under Review*, 2025. [[Code](https://github.com/Dstate/LBP)][[Website](https://dstate.github.io/LBP/)]
+- Dongxiu Liu$^\*$, **Haoyi Niu**$^\*$, Zhihao Wang, Jinliang Zheng, Yinan Zheng, Zhonghong Ou, Jianming Hu, Jianxiong Li, Xianyuan Zhan, [Efficient Robotic Policy Learning via Latent Space Backward Planning](https://openreview.net/forum?id=BDBnw6L66T), *7th Robot Learning Workshop: Towards Robots with Human-Level Abilities@ICLR*, 2025. [[Code](https://github.com/Dstate/LBP)][[Website](https://dstate.github.io/LBP/)]
 
 - **Haoyi Niu**$^\*$, Qimao Chen$^\*$, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu and Xianyuan Zhan, [xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing](https://arxiv.org/abs/2409.08687), *NeurIPS Workshop on Open-World Agents*, 2024. [[Code](https://github.com/t6-thu/xTED)][[Website](https://t6-thu.github.io/xTED/)]
 
