@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "NIU Haoyi"
-description              : "Master Student at Department of Automation, Tsinghua University. Focusing on Reinforcement Learning, Robotics and Autonomous Driving."
+description              : "Master Student at Department of Automation, Tsinghua University."
+# Focusing on Reinforcement Learning, Robotics and Autonomous Driving."
 repository               : "t6-thu/t6-thu.github.io"
 google_scholar_stats_use_cdn : true
 
