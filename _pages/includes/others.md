@@ -9,4 +9,4 @@
 <!-- - *2024.06 - Present*, [SU Lab](https://cseweb.ucsd.edu/~haosu/index.html), UCSD, San Diego, USA. (**Advisor: [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/)**) -->
 
 # 🧑‍🎨 Services
-Reviewer for Conferences (**ITSC, ICRA, IROS, IJCAI, NeurIPS, ICML**) and Journals (**IEEE Transactions on Intelligent Vehicles, Transportation Research Part C**).
+Reviewer for Conferences (**ITSC, ICRA, IROS, IJCAI, NeurIPS, ICML**) and Journals (**IEEE Robotics and Automation Letters, IEEE Transactions on Intelligent Vehicles, Transportation Research Part C**).
