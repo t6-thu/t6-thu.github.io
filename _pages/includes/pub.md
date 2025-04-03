@@ -1,60 +1,6 @@
 
-# 📝 Publications
+# 📝 Selected Publications
 ## Preprints, Codebases and Workshop Papers
-<!-- ## 🎙 Speech Synthesis
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
-</div>
-</div> -->
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
-</div>
-</div> -->
-
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
-
-[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
-</div>
-</div> -->
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
-
-[**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
-</div>
-</div> -->
-- Dongxiu Liu$^\*$, **Haoyi Niu**$^\*$, Zhihao Wang, Jinliang Zheng, Yinan Zheng, Zhonghong Ou, Jianming Hu, Jianxiong Li, Xianyuan Zhan, [Efficient Robotic Policy Learning via Latent Space Backward Planning](https://openreview.net/forum?id=BDBnw6L66T), *7th Robot Learning Workshop: Towards Robots with Human-Level Abilities@ICLR*, 2025. [[Code](https://github.com/Dstate/LBP)][[Website](https://dstate.github.io/LBP/)]
-
-- **Haoyi Niu**$^\*$, Qimao Chen$^\*$, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu and Xianyuan Zhan, [xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing](https://arxiv.org/abs/2409.08687), *NeurIPS Workshop on Open-World Agents*, 2024. [[Code](https://github.com/t6-thu/xTED)][[Website](https://t6-thu.github.io/xTED/)]
 
 - Xiangyu Zhu$^\*$, Jianxiong Li$^\*$, **Haoyi Niu**$^\*$, Yinan Zheng$^\*$, Peng Cheng$^\*$, Wenjia Zhang$^\*$, Haoran Xu$^\*$ and Xianyuan Zhan, [D2C: A Data-Driven Control Library Based on Reinforcement Learning](https://github.com/AIR-DI/D2C), *Paper coming soon*, 2023. [[Code](https://github.com/AIR-DI/D2C)][[Documentation](https://air-d2c.readthedocs.io/)]
 
@@ -64,7 +10,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 ## Conference Proceedings
 - **Haoyi Niu**$^\*$, Tianying Ji$^\*$, Bingqi Liu, Haocheng Zhao, Xiangyu Zhu, Jianying Zheng, Pengfei Huang, Guyue Zhou, Jianming Hu and Xianyuan Zhan, [H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://arxiv.org/abs/2309.12716), *IEEE International Conference on Robotics and Automation* (**ICRA 2025**).
-- Tenglong Liu$^\*$, Jianxiong Li$^\*$, Yinan Zheng, **Haoyi Niu**, Yixing Lan, Xin Xu and Xianyuan Zhan, [Skill Expansion and Composition in Parameter Space](), *International Conference on Learning Representations* (**ICLR 2025**).
 - Guan Wang$^\*$, **Haoyi Niu**$^\*$, Jianxiong Li, Li Jiang, Jianming Hu and Xianyuan Zhan, [Are Expressive Models Truly Necessary for Offline RL?](https://arxiv.org/abs/2412.11253), *Annual AAAI Conference on Artificial Intelligence* (**AAAI 2025**), <span style="color:red">**Oral Presentation**</span>. [[Code](https://github.com/imoneoi/RSP_JAX)][[Twitter](https://x.com/t641769919/status/1866405268755550277)]
 - Jianxiong Li, Jinliang Zheng, Yinan Zheng, Liyuan Mao, Xiao Hu, Sijie Cheng, **Haoyi Niu**, Jihao Liu, Yu Liu, Jingjing Liu, Ya-Qin Zhang and Xianyuan Zhan, [DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning](https://arxiv.org/abs/2402.18137), *International Conference on Machine Learning* (**ICML 2024**). [[Website](https://2toinf.github.io/DecisionNCE/)][[Code](https://github.com/2toinf/DecisionNCE)]
 - **Haoyi Niu**, Jianming Hu, Guyue Zhou and Xianyuan Zhan, [A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents](https://arxiv.org/abs/2402.04580), *International Joint Conference
