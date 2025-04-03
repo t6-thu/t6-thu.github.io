@@ -1,9 +1,8 @@
 # 👨‍🎓 About Me
 Hi! I am an incoming PhD at BAIR, UC Berkeley. I am currently a master student at Intelligent Transportation Lab, Institute of Systems Engineering, [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Jianming Hu](https://scholar.google.com/citations?user=OD-QFQQAAAAJ). Additionally, I work as a research intern at [AIR-DREAM Lab](https://air-dream.netlify.app/) of [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Xianyuan Zhan](http://zhanxianyuan.xyz/). I got my bachelor's degree in June 2022 from the Department of Automation, Tsinghua University.
 
-My research interest broadly lies in advanced data-driven learning theory and algorithms on decision making and optimization, such as **reinforcement learning (RL)**, as well as their promising applications on **autonomous driving** and **robotics**.
-<!-- However, over recent years, criticism against RL continues to pour regarding its limited real-world applicability.  -->
-Specifically, I pay much attention to bridging the complex and intractable domain gaps that potentially deteriorate policies, seeking more practical solutions for building real-world embodied agents.
+<!-- My research interest broadly lies in advanced data-driven learning theory and algorithms on decision making and optimization, such as **reinforcement learning (RL)**, as well as their promising applications on **autonomous driving** and **robotics**.
+Specifically, I pay much attention to bridging the complex and intractable domain gaps that potentially deteriorate policies, seeking more practical solutions for building real-world embodied agents. -->
 
 <!-- I am also fortunate to work closely with [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/) at UCSD. -->
 <!-- I work at [Sea AI Lab](https://sail.sea.com/) <img src='./images/logo-sea-header-desktop.webp' style='width: 6em;'> as a research scientist now, leading the audio team and doing some fundamental audio-related research. We are [hiring researchers and engineers](https://career.sea.com/position/427) to work on TTS, music generation, speech translation and audio-driven talking face generation. If interested, feel free to email me at [renyi@sea.com](mailto:renyi@sea.com).
