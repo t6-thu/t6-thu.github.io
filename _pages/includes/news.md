@@ -1,4 +1,5 @@
 # 🔥 News
+- [*2025.05*] Invited talk about LBP (ICML 2025) at [RLChina](https://rlchina.org/) Academic Seminar!
 - [*2025.05*] One paper (LBP) is accepted by ICML 2025!
 - [*2025.01*] One paper (H2O+) is accepted by ICRA 2025! One paper (PSEC) is accepted by ICLR 2025!
 - [*2025.01*] Guest Speaker sharing RSP at AI TIME AAAI Forum. [[video](https://www.bilibili.com/video/BV1MBc1eBEYJ/?share_source=copy_web&vd_source=76e83556474f5bcdeb4d19a8521c1d7d)(Chinese)]
