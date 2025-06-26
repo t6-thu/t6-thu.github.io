@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "NIU Haoyi"
-description              : "Master Student at Department of Automation, Tsinghua University."
+description              : "Incoming PhD at UC Berkeley."
 # Focusing on Reinforcement Learning, Robotics and Autonomous Driving."
 repository               : "t6-thu/t6-thu.github.io"
 google_scholar_stats_use_cdn : true
@@ -29,7 +29,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6zozRRYAAAAJ"
-  email            : "nhy22@mails.tsinghua.edu.cn"
+  email            : "niu[at]berkeley[dot]edu"
   researchgate     : "https://www.researchgate.net/profile/Haoyi-Niu-2"
   uri              :
   bitbucket        :

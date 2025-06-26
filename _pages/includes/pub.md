@@ -24,5 +24,5 @@ on Artificial  Intelligence* (**IJCAI 2024**), <span style="color:red">**Oral Pr
 - **Haoyi Niu**, Jianming Hu, Zheyu Cui and Yi Zhang, [DR$^2$L: Surfacing Corner Cases to Robustify Autonomous Driving via Domain Randomization Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3487075.3487177), *the 5th International Conference on Computer Science and Application Engineering* (**CSAE 2021**), <span style="color:red">**Oral Presentation**</span>.
 - Qingyu Song, Ruibo Ming, Jianming Hu, **Haoyi Niu** and Mingyang Gao, [Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction](https://ascelibrary.org/doi/abs/10.1061/9780784483565.246), *IEEE 23rd International Conference on Intelligent Transportation Systems* (**ITSC 2020**).
 
-## Dissertation
-- **Haoyi Niu**, [Robot Policy Learning with Imperfect Simulation: Effective Sim-to-Real Methods and Implementations]() (*in Chinese*), 2022, **Outstanding Graduate Dissertation Award**.
+<!-- ## Dissertation -->
+<!-- - **Haoyi Niu**, [Robot Policy Learning with Imperfect Simulation: Effective Sim-to-Real Methods and Implementations]() (*in Chinese*), 2022, **Outstanding Graduate Dissertation Award**. -->

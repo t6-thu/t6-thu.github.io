@@ -1,12 +1,16 @@
 # 🎖 Honors and Awards
+- [*2025.06*]  Beijing Outstanding Graduate Award
+- [*2025.06*]  Tsinghua Outstanding Master Dissertation (top 5%)
+- [*2025.06*]  Tsinghua Outstanding Master Graduate Award (top 1%)
+- [*2025.06*]  Outstanding Master Graduate Award of Department of Automation, Tsinghua University
 - [*2025.01*]  AAAI 2025 Oral Presentation Award
 - [*2024.11*]  Tsinghua First-Class Comprehensive Excellence Award for Graduate Students (Fang Chongzhi Development Fund Scholarship)
 - [*2024.01*]  Zheng Weimin Scholarship
 - [*2023.10*]  Tsinghua First-Class Comprehensive Excellence Award for Graduate Students (Lingjun Investment Scholarship)
 - [*2022.12*]  NeurIPS 2022 Spotlight Award
-- [*2022.06*]  Tsinghua Outstanding Graduate Dissertation (top 5%)
-- [*2022.06*]  Tsinghua Outstanding Graduate Award (top 10%)
-- [*2022.06*]  Excellent Graduate Award of Department of Automation, Tsinghua University
+- [*2022.06*]  Tsinghua Outstanding Bachelor Dissertation (top 5%)
+- [*2022.06*]  Tsinghua Excellent Bachelor Graduate Award (top 10%)
+- [*2022.06*]  Outstanding Bachelor Graduate Award of Department of Automation, Tsinghua University
 - [*2021.12*]  Best Paper Award at COTA International Conference of Transportation Professionals (CICTP)
 - [*2021.10*]  Tsinghua Scientific and Technological Innovation Excellence Award
 - [*2021.09*]  Tsinghua "Future Scholar" Scientific Research Grant (**9/3850** in Tsinghua Class of 2022)
