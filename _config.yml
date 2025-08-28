@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "NIU Haoyi"
-description              : "Incoming PhD at UC Berkeley."
+description              : "PhDing at BAIR, UC Berkeley."
 # Focusing on Reinforcement Learning, Robotics and Autonomous Driving."
 repository               : "t6-thu/t6-thu.github.io"
 google_scholar_stats_use_cdn : true
@@ -25,7 +25,7 @@ author:
   name             : "NIU Haoyi"
   avatar           : "images/icon-HD-big.jpg"
   bio              : # "Sea AI Lab"
-  location         : "Beijing, China"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6zozRRYAAAAJ"
