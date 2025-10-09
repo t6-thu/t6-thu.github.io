@@ -1,5 +1,9 @@
 # 📝 Publications
 ## Preprints, Codebases and Workshop Papers
+- Yilin Wang$^\*$, Shangzhe Li$^\*$, **Haoyi Niu**, Zhiao Huang and Hao Su, [A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models](https://arxiv.org/abs/2510.02538), 2025.
+
+- Zhihao Wang$^\*$, Jianxiong Li$^\*$, Jinliang Zheng$^\*$, Wencong Zhang, Dongxiu Liu, Yinan Zheng, **Haoyi Niu**, Junzhi Yu and Xianyuan Zhan, [PhysiAgent: An Embodied Agent Framework in Physical World](https://arxiv.org/abs/2509.24524), *the New in ML Workshop at ICML 2025*, 2025.
+
 - **Haoyi Niu**$^\*$, Qimao Chen$^\*$, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu and Xianyuan Zhan, [xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing](https://arxiv.org/abs/2409.08687), *NeurIPS Workshop on Open-World Agents*, 2024. [[Code](https://github.com/t6-thu/xTED)][[Website](https://t6-thu.github.io/xTED/)]
 
 - Xiangyu Zhu$^\*$, Jianxiong Li$^\*$, **Haoyi Niu**$^\*$, Yinan Zheng$^\*$, Peng Cheng$^\*$, Wenjia Zhang$^\*$, Haoran Xu$^\*$ and Xianyuan Zhan, [D2C: A Data-Driven Control Library Based on Reinforcement Learning](https://github.com/AIR-DI/D2C), *Paper coming soon*, 2023. [[Code](https://github.com/AIR-DI/D2C)][[Documentation](https://air-d2c.readthedocs.io/)]
