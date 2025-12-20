@@ -1,10 +1,11 @@
 # 🔥 News
+- [*2025.12*] One Paper (xTED) is accepted by AAMAS 2026!
 - [*2025.05*] Invited talk about LBP (ICML 2025) at [RLChina](https://rlchina.org/) Academic Seminar!
 - [*2025.05*] One paper (LBP) is accepted by ICML 2025!
 - [*2025.01*] One paper (H2O+) is accepted by ICRA 2025! One paper (PSEC) is accepted by ICLR 2025!
 - [*2025.01*] Guest Speaker sharing RSP at AI TIME AAAI Forum. [[video](https://www.bilibili.com/video/BV1MBc1eBEYJ/?share_source=copy_web&vd_source=76e83556474f5bcdeb4d19a8521c1d7d)(Chinese)]
 - [*2024.12*] One paper (RSP) is accepted by AAAI 2025 as **Oral Presentation**!
-- [*2024.10*] Two papers (xTED, RSP) are accepted by NeurIPS 2024 Workshop on Open-World Agents.
+<!-- - [*2024.10*] Two papers (xTED, RSP) are accepted by NeurIPS 2024 Workshop on Open-World Agents. -->
 - [*2024.05*] One paper (DecisionNCE) is accepted by ICML 2024!
 - [*2024.04*] One Survey paper on Cross-Domain Embodied Policy Transfer is accepted by IJCAI 2024!
 - [*2024.01*] One paper (CLIC) is accepted by ICRA 2024!
