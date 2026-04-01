@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- [*2026.03*]  China Association of Automation (CAA) Outstanding Master Dissertation
 - [*2025.06*]  Beijing Outstanding Graduate Award
 - [*2025.06*]  Tsinghua Outstanding Master Dissertation (top 5%)
 - [*2025.06*]  Tsinghua Outstanding Master Graduate Award (top 1%)
