@@ -1,4 +1,7 @@
-# 🔥 News
+<h1 id="news">🔥 News <button type="button" class="news-toggle" aria-expanded="false" aria-controls="news-items" hidden>▾ Show all</button></h1>
+
+<div id="news-items" markdown="1">
+
 - [*2026.09*] HiRE is accepted by CoRL 2026!
 - [*2025.12*] xTED is accepted by AAMAS 2026!
 - [*2025.05*] Invited talk about LBP (ICML 2025) at [RLChina](https://rlchina.org/) Academic Seminar!
@@ -18,3 +21,6 @@
 - [*2022.10*] One paper is accepted by NeurIPS 2022 RL4RealLife Workshop and ML4AD Workshop!
 - [*2022.09*] H2O is accepted by NeurIPS 2022 as **Spotlight**!
 - [*2022.09*] DMIL is accepted by CoRL 2022!
+
+</div>
+<script src="{{ '/assets/js/news.js' | relative_url }}"></script>

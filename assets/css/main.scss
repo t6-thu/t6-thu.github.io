@@ -107,3 +107,29 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.news-toggle {
+    margin-left: 0.5em;
+    padding: 0.2em 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: transparent;
+    color: inherit;
+    font-size: 0.5em;
+    font-weight: normal;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.news-toggle:hover {
+    background: #f2f3f3;
+}
+
+.news-toggle:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 2px;
+}
+
+#news-items li[hidden], .news-toggle[hidden] {
+    display: none;
+}
