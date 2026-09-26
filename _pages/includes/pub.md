@@ -1,11 +1,10 @@
 # 📝 Publications
 ## Preprints and Codebases
-- Dongxiu Liu$^\*$, **Haoyi Niu**$^\*$✉, Peng Cheng, Yuan Gao, Xirui Kang, Sangli Teng, Koushil Sreenath, Xianyuan Zhan✉, [ODEWorld: A Continuous Predictive Architecture
-via Physical-Time Flow](https://arxiv.org/abs/2607.27924), 2026. [[Website](https://dstate.github.io/odeworld_website/)]
-
 - Xiangyu Zhu$^\*$, Jianxiong Li$^\*$, **Haoyi Niu**$^\*$, Yinan Zheng$^\*$, Peng Cheng$^\*$, Wenjia Zhang$^\*$, Haoran Xu$^\*$ and Xianyuan Zhan, [D2C: A Data-Driven Control Library Based on Reinforcement Learning](https://github.com/AIR-DI/D2C), *Paper coming soon*, 2023. [[Code](https://github.com/AIR-DI/D2C)][[Documentation](https://air-d2c.readthedocs.io/)]
 
 ## Conference Proceedings and Workshop Papers
+- Dongxiu Liu$^\*$, **Haoyi Niu**$^\*$✉, Peng Cheng, Yuan Gao, Xirui Kang, Sangli Teng, Koushil Sreenath, Xianyuan Zhan✉, [ODEWorld: A Continuous Predictive Architecture
+via Physical-Time Flow](https://arxiv.org/abs/2607.27924), *Fortieth Conference on Neural Information Processing Systems* (**NeurIPS 2026**). [[Code](http://github.com/Dstate/ODEWorld)][[Website](https://dstate.github.io/odeworld_website/)]
 - **Haoyi Niu**$^\*$, Zhengtao Han$^\*$, Yufeng Ji, Zhongyu Li and Koushil Sreenath, [HiRE: Hindsight Reward Editing for Policy Finetuning](http://arxiv.org/abs/2609.27068), *Conference on Robot Learning* (**CoRL 2026**). [[Website](https://hire-project.github.io/)]
 - Yilin Wang$^\*$, Shangzhe Li$^\*$, **Haoyi Niu**, Zhiao Huang and Hao Su, [A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models](https://arxiv.org/abs/2510.02538), *IROS 2026 Workshop of Physical World Models for Scaling Embodied AI*, <span style="color:red">**Oral Presentation**</span>.
 - **Haoyi Niu**$^\*$, Qimao Chen$^\*$, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu and Xianyuan Zhan, [xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing](https://arxiv.org/abs/2409.08687), *International Conference on Autonomous Agents and Multi-Agent Systems* (**AAMAS 2026**). [[Code](https://github.com/t6-thu/xTED)][[Website](https://t6-thu.github.io/xTED/)]
